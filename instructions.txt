@@ -22,9 +22,9 @@ F. Install:
 
 G. Create three files:
 
-   -'/frontend/components/Navbar.jsx'
-   -'/frontend/pages/HomePage.jsx'
-   -'/frontend/pages/ProductPage.jsx'
+   -'/frontend/src/components/Navbar.jsx'
+   -'/frontend/src/pages/HomePage.jsx'
+   -'/frontend/src/pages/ProductPage.jsx'
 
 
 7. Import 'Navbar.jsx' into the 'App.jsx' component.  Ensure that it shows on all pages.
