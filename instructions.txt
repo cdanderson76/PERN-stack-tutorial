@@ -1,0 +1,40 @@
+7. FRONTEND SETUP WITH VITE
+
+
+A. Follow how to install and initiate Vite (instructions in thumb drive).  We want to go
+   into the 'frontend' folder and initiate Vite under the current directory.
+
+B. Install Tailwind CSS with DaisyUI VERSION 4 (config on the thumb drive).
+
+C. Update the 'index.css' file (config on the thumb drive).
+
+D. Check to make sure Tailwind CSS is working by changing color of text.
+
+E. Configure tailwind.config.js to use DaisyUI (notes on the thumb drive)
+
+F. Install:
+
+   -react-hot-toast (for pop-up notifications)
+   -axios (for API integration)
+   -react-router-dom (for browser navigation)
+   -lucide-react (for icons)
+   -zustand (for state management)
+
+G. Create three files:
+
+   -'/frontend/components/Navbar.jsx'
+   -'/frontend/pages/HomePage.jsx'
+   -'/frontend/pages/ProductPage.jsx'
+
+
+7. Import 'Navbar.jsx' into the 'App.jsx' component.  Ensure that it shows on all pages.
+
+8. Create two routes inside of 'App.jsx':
+
+   - 'HomePage.jsx' ('/')
+   - 'ProductPage.jsx' ('/product/:id')
+
+
+9. Initiate Browser Routing within 'main.jsx'
+
+10. Start your Vite App and test out the pages
