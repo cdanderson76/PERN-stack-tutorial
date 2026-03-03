@@ -1,0 +1,10 @@
+6. RATE LIMITING AND BOT DETECTION
+
+
+A. Create '/backend/lib/arcjet.js'. 
+
+B. Initialize Arcjet and configure the rate-limiting
+
+C. Import it into 'server.js' above the 'products' route
+
+NOTE: THERE IS NO WAY TO TEST THIS OUT.  JUST ENSURE THAT THE BACKEND IS STILL RUNNING OK
